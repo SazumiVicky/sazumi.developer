@@ -1,2 +1,3 @@
-# sazumi.developer
-https://www.sazumivicky.my.id
+
+
+CUMAN UNTUK KEPERLUAN BLOG
