@@ -11,14 +11,6 @@
         </textPath>
     </text>
 
-    <path id="path1">
-        <animate id="d1" attributeName="d" begin="d0.end" dur="5s" values="m0,25 h0 ; m0,25 h360 ; m0,25 h0" keyTimes="0 ; 0.8 ; 1"/>
-    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="auto" x="50%" text-anchor="middle">
-        <textPath xlink:href="#path1">
-            i'm a web developer
-        </textPath>
-    </text>
 
     <path id="path2">
         <animate id="d2" attributeName="d" begin="d1.end" dur="5s" values="m0,25 h0 ; m0,25 h360 ; m0,25 h0" keyTimes="0 ; 0.8 ; 1"/>
